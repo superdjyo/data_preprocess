@@ -1,1 +1,2 @@
-# data_preprocess
+資料前處理
+1.檢驗空值、敘述統計
